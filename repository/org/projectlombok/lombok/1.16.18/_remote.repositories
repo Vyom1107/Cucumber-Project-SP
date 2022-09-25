@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 16 21:39:24 IST 2022
+lombok-1.16.18-sources.jar>sonatype-nexus=
+lombok-1.16.18.jar>sonatype-nexus=
+lombok-1.16.18.pom>sonatype-nexus=

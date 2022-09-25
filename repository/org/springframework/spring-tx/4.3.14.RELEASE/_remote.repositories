@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 16 21:39:18 IST 2022
+spring-tx-4.3.14.RELEASE.pom>sonatype-nexus=
+spring-tx-4.3.14.RELEASE.jar>sonatype-nexus=
+spring-tx-4.3.14.RELEASE-sources.jar>sonatype-nexus=
