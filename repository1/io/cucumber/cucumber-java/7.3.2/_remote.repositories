@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jul 22 12:56:56 IST 2022
+cucumber-java-7.3.2.jar>central=
+cucumber-java-7.3.2-javadoc.jar>central=
+cucumber-java-7.3.2.pom>central=
